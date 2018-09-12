@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a *qualified* person. I can do **all kinds of cool stuff** like _climbing **rocks and stuff** and coding in git_.  
