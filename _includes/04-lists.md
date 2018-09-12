@@ -1,0 +1,4 @@
+- [ ] Climbing
+- [ ] Eating
+- [ ] Cooking
+- [ ] Backpacking
